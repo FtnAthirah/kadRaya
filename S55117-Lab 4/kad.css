@@ -1,0 +1,30 @@
+body{
+
+    margin: 100px;
+    background-image: url('background_image.jpeg');
+    background-position: center;
+    background-color: black;
+    background-repeat: no-repeat;  
+  }
+
+.centerplayer {
+    margin: 40px auto;
+    padding: 16px;
+    max-width: 400px;
+    }
+  
+.kadRaya{
+  
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+    margin: 40px auto;
+    padding: 16px;
+    max-width: 400px;
+    background-color: white;
+  }
+  
+.kadRaya img{
+    margin: 40px auto;
+    padding: 16px;
+    max-width: 400px;
+  }
